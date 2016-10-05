@@ -13,6 +13,7 @@ module.exports = {
             { test: /\.css$/, loader: "style!css" },
         ]
     },
+    devtool: "#inline-source-map",
     devServer: {
         host: os.hostname()
     }

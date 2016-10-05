@@ -2,6 +2,7 @@
   "name": "js-test",
   "version": "1.0.0",
   "description": "JS test, countries data from https://gist.github.com/facboy/16596e03d05f8668e8f0",
+  "private": true,
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
